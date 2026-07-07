@@ -19,8 +19,8 @@ analytics.
 
 | Project | Description | Tools |
 |---|---|---|
-| [January 6th Twitter Sentiment Analysis]([link](https://github.com/sagefuentes/Jan-6-Twitter-Data)) | Multi-method sentiment analysis (AFINN, NRC, VADER, RoBERTa) across a 48-hour tweet dataset | R, tidyverse, RoBERTa (Colab/GPU) |
-| [MTG Sealed Product Market Dashboard]([link](https://github.com/sagefuentes/Secondary-Market-Analysis-Sealed-Magic-the-Gathering)) | Power BI dashboard tracking secondary-market prices across ~117 Magic: The Gathering sets | Python, Power BI, DAX |
+| [January 6th Twitter Sentiment Analysis](https://github.com/sagefuentes/Jan-6-Twitter-Data) | Multi-method sentiment analysis (AFINN, NRC, VADER, RoBERTa) across a 48-hour tweet dataset | R, tidyverse, RoBERTa (Colab/GPU) |
+| [MTG Sealed Product Market Dashboard](https://github.com/sagefuentes/Secondary-Market-Analysis-Sealed-Magic-the-Gathering) | Power BI dashboard tracking secondary-market prices across ~117 Magic: The Gathering sets | Python, Power BI, DAX |
 
 ## Projects in Development
 | Project | Description | Tools |
