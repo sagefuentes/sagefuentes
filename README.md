@@ -9,7 +9,7 @@ analytics.
 
 ## About Me
 
-- 🔍 Research focus: online discourse, prejudice, and platform behavior
+- 🔍 Research focus: online discourse, prejudice, vulnerable populations, and platform behavior
 - 🎓 M.S., Human-Computer Interaction
 - 🛠️ Tools: R (tidyverse), Python, SQL, Power BI
 - 📌 Currently: job searching for research/data analyst roles or adjacent roles where my background
