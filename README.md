@@ -14,6 +14,7 @@ analytics.
 - 🛠️ Tools: R (tidyverse), Python, SQL, Power BI
 - 📌 Currently: job searching for research/data analyst roles or adjacent roles where my background
 - 📫 [LinkedIn](https://www.linkedin.com/in/sage-fuentes-9465b5101/)
+- 📄 [CV](./Sage Fuentes CV.pdf)
 
 ## Featured Projects
 
