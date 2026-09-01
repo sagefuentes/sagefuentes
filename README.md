@@ -9,10 +9,10 @@ analytics.
 
 ## About Me
 
-- 🔍 Research focus: online discourse, prejudice, vulnerable populations, and platform behavior
+- 🔍 Research focus: generative AI bias analysis, prejudice, vulnerable populations, and platform behavior
 - 🎓 M.S., Human-Computer Interaction
-- 🛠️ Tools: R (tidyverse), Python, SQL, Power BI
-- 📌 Currently: job searching for research/data analyst roles or adjacent roles where my background
+- 🛠️ Tools: R (tidyverse), Python, SQL, Power BI, Tableau
+- 📌 Currently: job searching for researcher and data analyst roles or adjacent roles where my background fits.
 - 📫 [LinkedIn](https://www.linkedin.com/in/sage-fuentes-9465b5101/)
 - 📄 [CV](./Sage_Fuentes_CV.pdf)
 
